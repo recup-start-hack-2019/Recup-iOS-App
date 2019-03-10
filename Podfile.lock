@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (4.8.1)
+  - BitcoinKit (1.0.1)
+  - KeychainAccess (3.1.1)
+  - QRCode (2.0)
+  - SwiftMessages (6.0.2):
+    - SwiftMessages/App (= 6.0.2)
+  - SwiftMessages/App (6.0.2)
+  - SwiftyJSON (4.1.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - BitcoinKit
+  - KeychainAccess
+  - QRCode
+  - SwiftMessages
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - BitcoinKit
+    - KeychainAccess
+    - QRCode
+    - SwiftMessages
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  BitcoinKit: c23a32263524ba0f2bfcc3aa7a90ed4537856f88
+  KeychainAccess: 7bd430028059754a3debab3cfc0bd1fc7fb85df3
+  QRCode: f98a1886c8f37523704a7512a4c0cd45b34c18a4
+  SwiftMessages: 8b3cc68dba2f1c91aac1a74c90b10287aac35371
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+
+PODFILE CHECKSUM: f413c2091d5d6fe38649cfbd2ccb859b764849eb
+
+COCOAPODS: 1.5.3
